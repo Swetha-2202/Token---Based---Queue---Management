@@ -102,5 +102,6 @@ This project demonstrates the implementation of a digital queue management syste
 
 ## Simulation Results
 
-Vivado behavioral simulation waveform demonstrating token generation, serving token updates and reset operation.
+![Vivado Simulation Waveform](sim/vivado%20simulation%20waveform.jpeg)
+
 
