@@ -88,3 +88,19 @@ Refer to the PowerPoint presentation included in this repository for the archite
 ## Conclusion
 
 This project demonstrates the implementation of a digital queue management system using Verilog HDL and FPGA technology for efficient token generation and customer service management.
+
+
+---
+
+## System Block Diagram
+
+![Token Queue Block Diagram](images/token%20-%20block%20diagram.jpeg)
+
+## Project Output
+
+![Token Queue Output](images/token%20-%20output.jpeg)
+
+## Simulation Results
+
+Vivado behavioral simulation waveform demonstrating token generation, serving token updates and reset operation.
+
